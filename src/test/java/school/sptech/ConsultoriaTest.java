@@ -35,7 +35,7 @@ import static org.junit.jupiter.api.Assertions.assertIterableEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @DisplayName("Consultoria")
-public class ConsultoriaTest {
+public class  ConsultoriaTest {
 
   Map<String, Field> campos() throws ReflectiveOperationException {
     Class<Consultoria> clazz = Consultoria.class;
